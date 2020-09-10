@@ -4,10 +4,6 @@
 :neo4j-versions: 4.0, 3.5, 3.4, 3.3, 3.2
 :tags: cypher, apoc
 :category: cypher
-:page-author: {author}
-:page-neo4j-versions: {neo4j-versions}
-:page-tags: {tags}
-:page-category: {category}
 
 When using Cypher for data analysis, you might have a problem where you need to identify or filter based upon some kind of streak.
 
